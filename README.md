@@ -19,7 +19,13 @@ Clicking this link will take you to a page where you can create (and delete) tok
 
 ## Running the script
 
-Once you've added your details into the script, simply place it in a convenient folder and run it.
+Once you've added your details into the script, simply place it in a convenient folder and run it by:
+
+  opening a powershell window, changing into the folder, and typing .\gather_stats.ps1
+  
+  -or-
+  
+  Right click on gather_stats.ps1 and select 'run with powershell' from the menu
 
 This will start capturing data and will continue until you press a key in the window.
 
